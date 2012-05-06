@@ -1,0 +1,4 @@
+name = Szantog Compass Base theme
+description = Some default for compass created by <a href="http://szantogabor.com">Gabor Szanto</a>.
+core = 7.x
+base_theme = zen
